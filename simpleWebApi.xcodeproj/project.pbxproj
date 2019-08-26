@@ -15,6 +15,7 @@
 		447AB3DA230BACA700F31294 /* simpleWebApiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 447AB3D9230BACA700F31294 /* simpleWebApiTests.swift */; };
 		447AB3E5230BACA700F31294 /* simpleWebApiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 447AB3E4230BACA700F31294 /* simpleWebApiUITests.swift */; };
 		447AB4342313C20700F31294 /* ApiManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 447AB4332313C20700F31294 /* ApiManager.swift */; };
+		447AB4362313C8F900F31294 /* 7.json in Resources */ = {isa = PBXBuildFile; fileRef = 447AB4352313C8F900F31294 /* 7.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		447AB3E4230BACA700F31294 /* simpleWebApiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = simpleWebApiUITests.swift; sourceTree = "<group>"; };
 		447AB3E6230BACA700F31294 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		447AB4332313C20700F31294 /* ApiManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApiManager.swift; sourceTree = "<group>"; };
+		447AB4352313C8F900F31294 /* 7.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 7.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				447AB4332313C20700F31294 /* ApiManager.swift */,
 				447AB3C6230BACA500F31294 /* ViewController.swift */,
 				447AB3C8230BACA500F31294 /* Main.storyboard */,
+				447AB4352313C8F900F31294 /* 7.json */,
 				447AB3CB230BACA700F31294 /* Assets.xcassets */,
 				447AB3CD230BACA700F31294 /* LaunchScreen.storyboard */,
 				447AB3D0230BACA700F31294 /* Info.plist */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				447AB3CF230BACA700F31294 /* LaunchScreen.storyboard in Resources */,
+				447AB4362313C8F900F31294 /* 7.json in Resources */,
 				447AB3CC230BACA700F31294 /* Assets.xcassets in Resources */,
 				447AB3CA230BACA500F31294 /* Main.storyboard in Resources */,
 			);
