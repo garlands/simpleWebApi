@@ -27,8 +27,8 @@ class ApiManager: NSObject {
     }
     
     func requestApi001(){
-        let apiUrl = URL(string: "https://garlands.jp.net/test/7.json")!
-        /*
+        let apiUrl = URL(string: "https://(your test server)/7.json")!
+        /* 7.json 
          {
          "errorCode": 0,
          "errorMessage": "",
